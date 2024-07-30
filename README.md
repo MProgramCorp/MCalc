@@ -43,7 +43,7 @@ Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
 Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do MCalc.
 
 
-## [Versão Prototype v1]([Calculadora](https://github.com/MProgramCorp/MCalc/releases/tag/Prototype-1))
+## [Versão Prototype v1](https://github.com/MProgramCorp/MCalc/releases/tag/Prototype-1)
 
 ### Notas de Lançamento
 
