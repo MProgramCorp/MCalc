@@ -16,7 +16,7 @@ O MCalc é projetado para ser executado no Windows. Portanto, desde que você es
 
 ## Como usar
 
-1. Faça o download do [MCalc Prototype v1]([https://github.com/MProgramCorp/MCalc/releases/tag/Prototype-1]) (Versão mais atualizada).
+1. Faça o download do [MCalc Prototype v1](https://github.com/MProgramCorp/MCalc/releases/tag/Prototype-1) (Versão mais atualizada).
 2. Execute o arquivo `Calculadora.exe`, para iniciar o programa.
 3. Selecione a função que desejar.
 4. Espere o programa concluir a operação.
